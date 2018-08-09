@@ -1,0 +1,7 @@
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\bin\Debug\TvsAPP.exe.config
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\bin\Debug\TvsAPP.exe
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\bin\Debug\TvsAPP.pdb
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\obj\Debug\TvsAPP.csprojAssemblyReference.cache
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\obj\Debug\TvsAPP.csproj.CoreCompileInputs.cache
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\obj\Debug\TvsAPP.exe
+C:\Users\ltvs\source\repos\TvsAPP\TvsAPP\obj\Debug\TvsAPP.pdb
